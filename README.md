@@ -1,4 +1,4 @@
-# Fusion_MMLA_ED_Review
+# IF_IQ:Taxonomy, Opportunities and Challenges
 
 Data and code used in the paper "Gutiérrez, R., Rampérez, V., Paggi, H., Lara, J. A., & Soriano, J. (2022). On the use of information fusion techniques to improve information quality: Taxonomy, opportunities and challenges. Information Fusion, 78, 102-137." 
 https://doi.org/10.1016/j.inffus.2021.09.017
